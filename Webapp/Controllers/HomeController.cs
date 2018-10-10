@@ -23,7 +23,7 @@ namespace Webapp.Controllers
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
-            string a = "herllkjkjsj";
+            string a = "hello world";
             return View();
         }
     }
